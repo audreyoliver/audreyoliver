@@ -25,11 +25,11 @@ search: true
 
 
 author:
-  name   : "First Lastname"
+  name   : "Audrey Oliver"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "✉ Email"
+    - label: "✉ EMAIL"
       icon: "fab"
       url: !join ["mailto:", *EMAIL]
     - label: "GitHub"
